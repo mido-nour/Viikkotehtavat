@@ -21,7 +21,7 @@ int main()
       cin>>maxnum;
 
     // gmae funktio anta arvausten_lukumara  että montako kerta se arvautukset ja se talenta sinne sit tuosta.
-
+//
       arvausten_lukumara = game(maxnum);
 
 
