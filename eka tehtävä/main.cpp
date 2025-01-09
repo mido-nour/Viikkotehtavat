@@ -49,7 +49,7 @@ int game (int maxnum){
 
     //  se muoka koko ajan se satunnaisluku.
     srand(time(NULL));
-     satunnaisluku = rand() % maxnum;
+     satunnaisluku = rand() % maxnum+1;
 
 
      // käytin while että aina jos on väärin niin sinne toista.
